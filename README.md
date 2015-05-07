@@ -1,5 +1,9 @@
 # USASpending.gov Issue Tracker Community Guidelines 
 
+## Update: 5/7/15
+Sample delta archive files are now [available for your testing and validation](deltaarchive.md "delta file testing instructions").
+
+## Guidelines
 Thank you for taking the time to report your issue. To get started, click the green “new issue” button. When reporting an issue, please keep the following in mind:
 
 - Check existing issues first. Look through the open and closed issues to see if what you’re experiencing has been addressed already.
