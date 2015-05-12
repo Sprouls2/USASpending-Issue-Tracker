@@ -1,7 +1,11 @@
 # USASpending.gov Issue Tracker Community Guidelines 
 
-## Update: 5/7/15
-Sample delta archive files are now [available for your testing and validation](deltaarchive.md "delta file testing instructions").
+## Updates
+Below are some recent USAspending updates that address your feedback. For a complete list and more information, visit the [USAspending What's New page](https://www.usaspending.gov/about/Pages/What%27s-New.aspx "USAspending What's New").
+
+- 5/12/15: Keyword search is now available (see the upper right-hand corner of each page).
+- 5/12/15: NAICS and Product Service Codes have been added to the [Advanced Data Search](https://www.usaspending.gov/Pages/AdvancedSearch.aspx "USAspending Advanced Data Search").
+- 5/7/15: Sample delta archive files are now [available for your testing and validation](deltaarchive.md "delta file testing instructions").
 
 ## Guidelines
 Thank you for taking the time to report your issue. To get started, click the green “new issue” button. When reporting an issue, please keep the following in mind:
